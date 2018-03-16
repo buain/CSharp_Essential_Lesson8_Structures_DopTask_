@@ -1,0 +1,7 @@
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson8_Structures\CSharp_Essential_Lesson8_Structures_DopTask\UserBirthDay\UserBirthDay\UserBirthDay\bin\Debug\UserBirthDay.exe.config
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson8_Structures\CSharp_Essential_Lesson8_Structures_DopTask\UserBirthDay\UserBirthDay\UserBirthDay\bin\Debug\UserBirthDay.exe
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson8_Structures\CSharp_Essential_Lesson8_Structures_DopTask\UserBirthDay\UserBirthDay\UserBirthDay\bin\Debug\UserBirthDay.pdb
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson8_Structures\CSharp_Essential_Lesson8_Structures_DopTask\UserBirthDay\UserBirthDay\UserBirthDay\obj\Debug\UserBirthDay.csprojResolveAssemblyReference.cache
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson8_Structures\CSharp_Essential_Lesson8_Structures_DopTask\UserBirthDay\UserBirthDay\UserBirthDay\obj\Debug\UserBirthDay.csproj.CoreCompileInputs.cache
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson8_Structures\CSharp_Essential_Lesson8_Structures_DopTask\UserBirthDay\UserBirthDay\UserBirthDay\obj\Debug\UserBirthDay.exe
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson8_Structures\CSharp_Essential_Lesson8_Structures_DopTask\UserBirthDay\UserBirthDay\UserBirthDay\obj\Debug\UserBirthDay.pdb
